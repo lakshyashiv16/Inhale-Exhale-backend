@@ -15,5 +15,5 @@ python main.py
 ```
 
 ### 3. Visit
-- `http://localhost:5000/` — root message
-- `http://localhost:5000/api/status` — API health check
+- `http://localhost:8000/` — root message
+- `http://localhost:8000/api/status` — API health check
